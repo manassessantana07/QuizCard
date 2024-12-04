@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #80408d;
+    --card-back-color: #eb6bf7;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: url('assets/img/bg-desktop.png');
     font-family: Space Grotesk;
 }
 
@@ -97,7 +97,7 @@ footer p {
 
 @media (max-width: 560px) {
     body {
-        background: url('img/bg-mobile.webp');
+        background: url('assets/img/bg-mobile.png');
     }
 
     .cartao {
